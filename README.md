@@ -8,15 +8,25 @@ Data Analysis as of May 19,2018
 Top 10 most hacks by organizations
 **********************************
 'w4l3XzY3' hacked 8928 websites
+
 'iskorpitx' hacked 4577 websites
+
 'BD GREY HAT HACKERS' hacked 3849 websites
+
 'delirium' hacked 3238 websites
+
 'Red Eye' hacked 2891 websites
+
 'Fatal Error' hacked 2826 websites
+
 '1923Turk' hacked 2652 websites
+
 'M0Âµ34d' hacked 1910 websites
+
 'h4x0r HuSsY' hacked 1589 websites
+
 'S:6T_i-#07' hacked 1569 websites
+
 
 
 Check all the hacking organization names generated in the file organizations.txt
